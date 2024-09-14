@@ -1,0 +1,8 @@
+.vscode/
+bin/
+lib/
+build/
+
+imgui.ini
+
+target/
