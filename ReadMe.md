@@ -6,7 +6,7 @@ This is a simple C++ application that utilizes the TeaCup framework along with B
 
 ## Building the Project
 
-To build the project, you need to have CMake and a C++ compiler installed. Follow these steps:
+To build the project, you need to have CMake and a supported C++ compiler as well as the TeaCup and BoilingHotWater dependencies installed on your system.
 
 1. **Clone the repository:**
     ```sh
