@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple C++ application that utilizes the TeaCup framework along with BoilingHotWater for creating a graphical user interface (GUI) with Dear ImGui and GLFW. This project demonstrates a simple "Hello, World!" application with basic input handling (like pressing F1 to toggle fullscreen mode).
+This is a simple C++ application that utilizes the TeaCup framework along with BoilingHotWater for creating a graphical user interface (GUI) with Dear ImGui and GLFW. This project demonstrates a simple "Hello, World!" application with basic input handling (like pressing F11 to toggle fullscreen mode).
 
 ## Building the Project
 
